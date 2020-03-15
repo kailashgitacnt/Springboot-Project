@@ -1,0 +1,6 @@
+com\sg\ms\employeeportal\model\Employee.class
+com\sg\ms\employeeportal\repository\EmployeeRepository.class
+com\sg\ms\employeeportal\controller\EmployeeController.class
+com\sg\ms\employeeportal\config\EmployeePortalSwaggerConfiguration.class
+com\sg\ms\employeeportal\Application.class
+com\sg\ms\employeeportal\validator\EmployeeValidator.class
